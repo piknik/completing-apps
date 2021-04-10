@@ -1,0 +1,5 @@
+* completing-apps
+  *completing-apps* is an Emacs package providing the command
+   `linux-app` which uses the standard `completing-read` interface. It
+   is very similar in function to `counsel-linux-app` in the
+   counsel.el package.  
